@@ -1,11 +1,11 @@
-import './style.css';
-import testImage from './images/testImage.png';
+import "./style.css";
+import testImage from "./images/testImage.png";
 
 function component() {
   // Test CSS
-  const element = document.createElement('div');
-  element.innerHTML = 'Testing...';
-  element.classList.add('hello');
+  const element = document.createElement("div");
+  element.innerHTML = "Testing...";
+  element.classList.add("hello");
 
   // Test Asset loader
   const imageElement = new Image();
