@@ -15,6 +15,9 @@ function component() {
   // Test source map --> uncomment to test tracking
   // cosnole.log('I get called from print.js!');
 
+  // Test Eslint --> uncomment to see suggestions
+  // if (true) {}
+
   return element;
 }
 document.body.appendChild(component());
