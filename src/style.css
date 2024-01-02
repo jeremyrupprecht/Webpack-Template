@@ -1,8 +1,8 @@
 .hello {
-    color: red;
-    background: url('./images/testImage.png');
+  color: red;
+  background: url("./images/testImage.png");
 }
 
 html {
-    background-color: gray;
+  background-color: gray;
 }
