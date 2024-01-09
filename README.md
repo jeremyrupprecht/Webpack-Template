@@ -12,6 +12,7 @@ Webpack Stuff
 * Source Map
 * Webpack Dev Server
 * Gh-pages Package
+* Babel Loader
 
 Linting Stuff
 * ESLint (with VSCode extension)
